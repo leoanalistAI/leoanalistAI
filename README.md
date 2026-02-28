@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?https://www.linkedin.com/in/leoanalistaihfont=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Especialista+em+Dados+%26+IA;Analista+de+Dados+%7C+Python+%7C+SQL;Power+BI+%7C+IA+Generativa;Mentor+%7C+Educador+%7C+Automação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Especialista+em+Dados+%26+IA;Analista+de+Dados+%7C+Python+%7C+SQL;Power+BI+%7C+IA+Generativa;Mentor+%7C+Educador+%7C+Automação)](https://git.io/typing-svg)
 
 ### 🚀 Especialista em Dados & Inteligência Artificial
 
