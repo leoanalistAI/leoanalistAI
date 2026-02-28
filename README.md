@@ -73,14 +73,14 @@ Sou um **Especialista em Dados e Inteligencia Artificial** com paixao por transf
 ### Certificacoes em Destaque
 
 - **Analise de Dados com Python** - [Instituicao]
-- - **IA Generativa e LLMs** - [Instituicao]
-  - - **Power BI Expert** - [Instituicao]
-    - - **SQL para Analise de Dados** - [Instituicao]
-      - - **Automacao com Python** - [Instituicao]
+- **IA Generativa e LLMs** - [Instituicao]
+- **Power BI Expert** - [Instituicao]
+- **SQL para Analise de Dados** - [Instituicao]
+- **Automacao com Python** - [Instituicao]
        
-        - ---
+---
 
-        ## Projetos em Destaque
+## Projetos em Destaque
 
         ### Principais Repositorios
 
