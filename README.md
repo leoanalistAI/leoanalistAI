@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Leandro Almeida
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Especialista+em+Dados+%26+IA;Analista+de+Dados+%7C+Python+%7C+SQL;Power+BI+%7C+IA+Generativa;Mentor+%7C+Educador+%7C+Automação)](https://git.io/typing-svg)
 
 ### 🚀 Especialista em Dados & Inteligência Artificial
@@ -15,7 +15,6 @@
 Sou um **Especialista em Dados e Inteligência Artificial** com paixão por transformar dados em insights estratégicos e soluções automatizadas. Minha expertise abrange análise de dados, desenvolvimento de dashboards interativos, implementação de IA Generativa e mentoria técnica.
 
 🎯 **Foco atual:** Soluções de IA Generativa, Análise Preditiva e Automação de Processos
-
 💡 **Missão:** Democratizar o conhecimento em dados e IA através da educação e mentoria
 
 ---
@@ -27,7 +26,7 @@ Sou um **Especialista em Dados e Inteligência Artificial** com paixão por tran
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](SEU_PORTFOLIO_AQUI)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoanalistAI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosalmeida200021@gmail.com)
 
 </div>
 
@@ -50,6 +49,9 @@ Sou um **Especialista em Dados e Inteligência Artificial** com paixão por tran
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### ⚙️ Automação & Desenvolvimento
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -70,91 +72,95 @@ Sou um **Especialista em Dados e Inteligência Artificial** com paixão por tran
 ## 🎓 Certificações & Formação
 
 ### 🏆 Certificações em Destaque
+
 - 📊 **Análise de Dados com Python** - [Instituição]
-- 🤖 **IA Generativa e LLMs** - [Instituição]
-- 📈 **Power BI Expert** - [Instituição]
-- 🗃️ **SQL para Análise de Dados** - [Instituição]
-- ⚙️ **Automação com Python** - [Instituição]
+- - 🤖 **IA Generativa e LLMs** - [Instituição]
+  - - 📈 **Power BI Expert** - [Instituição]
+    - - 🗃️ **SQL para Análise de Dados** - [Instituição]
+      - - ⚙️ **Automação com Python** - [Instituição]
+       
+        - ---
 
-*📌 Adicione suas certificações específicas acima*
+        ## 🚀 Projetos em Destaque
 
----
+        ### 🔥 Principais Repositórios
 
-## 🚀 Projetos em Destaque
+        <div align="center">
 
-### 🔥 Principais Repositórios
+        [![Branding Co-pilot](https://img.shields.io/badge/🎯_Branding_Co--pilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoanalistAI/Branding-Co-pilot)
+        [![AnalistAI Invest](https://img.shields.io/badge/💰_AnalistAI_Invest-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoanalistAI/AnalistAI-Invest)
+        [![Gantt Analyst Copilot](https://img.shields.io/badge/📊_Gantt_Analyst_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoanalistAI/Gantt-Analyst-Copilot--Gestao-de-Projetos)
 
-<div align="center">
+        </div>
 
-[![Projeto 1](https://img.shields.io/badge/🎯_Projeto_Análise_de_Dados-181717?style=for-the-badge&logo=github)](https://github.com/leoanalistAI/LINK_DO_PROJETO)
-[![Projeto 2](https://img.shields.io/badge/🤖_Projeto_IA_Generativa-181717?style=for-the-badge&logo=github)](https://github.com/leoanalistAI/LINK_DO_PROJETO)
-[![Projeto 3](https://img.shields.io/badge/⚙️_Automação_Python-181717?style=for-the-badge&logo=github)](https://github.com/leoanalistAI/LINK_DO_PROJETO)
+        | Projeto | Descrição | Tecnologias |
+        |---|---|---|
+        | 🎯 [Branding Co-pilot](https://github.com/leoanalistAI/Branding-Co-pilot) | Aplicativo para criação de marcas pessoais com IA | TypeScript |
+        | 💰 [AnalistAI Invest](https://github.com/leoanalistAI/AnalistAI-Invest) | Simulador de investimento e valor futuro | JavaScript |
+        | 📊 [Gantt Analyst Copilot](https://github.com/leoanalistAI/Gantt-Analyst-Copilot--Gestao-de-Projetos) | Gerador de gráficos Gantt para gestão de projetos | HTML |
+        | 🌐 [Simple Portfolio](https://github.com/leoanalistAI/Simple-portfolio) | Portfólio pessoal — primeira versão | HTML |
 
-</div>
+        ---
 
-*📌 Personalize com seus projetos reais*
+        ## 📊 Estatísticas GitHub
 
----
+        <div align="center">
 
-## 📊 Estatísticas GitHub
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoanalistAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoanalistAI&layout=compact&theme=tokyonight)
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoanalistAI&theme=tokyonight)
 
-<div align="center">
+        </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoanalistAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+        ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoanalistAI&layout=compact&theme=tokyonight)
+        ## 🌟 Áreas de Interesse
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoanalistAI&theme=tokyonight)
+        ```python
+        especialidades = {
+            "Data Science": ["Análise Exploratória", "Visualização", "Storytelling"],
+            "IA & Machine Learning": ["IA Generativa", "NLP", "Modelos Preditivos"],
+            "Business Intelligence": ["Power BI", "Dashboards", "KPIs"],
+            "Automação": ["Python Scripts", "ETL", "RPA"],
+            "Educação": ["Mentoria", "Treinamentos", "Conteúdo Técnico"]
+        }
+        ```
 
-</div>
+        ---
 
----
+        ## 📈 Atividade Recente
 
-## 🌟 Áreas de Interesse
+        ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leoanalistAI&theme=tokyo-night&hide_border=true)
 
-```python
-especialidades = {
-    "Data Science": ["Análise Exploratória", "Visualização", "Storytelling"],
-    "IA & Machine Learning": ["IA Generativa", "NLP", "Modelos Preditivos"],
-    "Business Intelligence": ["Power BI", "Dashboards", "KPIs"],
-    "Automação": ["Python Scripts", "ETL", "RPA"],
-    "Educação": ["Mentoria", "Treinamentos", "Conteúdo Técnico"]
-}
-```
+        ---
 
----
+        ## 💬 Vamos Conversar!
 
-## 📈 Atividade Recente
+        Estou sempre aberto a discutir sobre:
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leoanalistAI&theme=tokyo-night&hide_border=true)
+        - 🔍 Projetos de Análise de Dados
+        - - 🤖 Implementação de IA Generativa
+          - - 📊 Soluções de Business Intelligence
+            - - 🎓 Mentoria e Desenvolvimento de Carreira
+              - - ⚙️ Automação de Processos
+               
+                - <div align="center">
 
----
+                ### 📫 Entre em contato!
 
-## 💬 Vamos Conversar!
+                [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+                [![Email](https://img.shields.io/badge/Email-leandrosalmeida200021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosalmeida200021@gmail.com)
 
-Estou sempre aberto a discutir sobre:
-- 🔍 Projetos de Análise de Dados
-- 🤖 Implementação de IA Generativa
-- 📊 Soluções de Business Intelligence
-- 🎓 Mentoria e Desenvolvimento de Carreira
-- ⚙️ Automação de Processos
+                </div>
 
-<div align="center">
+                ---
 
-### 📫 Entre em contato!
+                <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+                ### 👥 Contagem de Visitantes
 
-</div>
+                ![Visitor Count](https://profile-counter.glitch.me/leoanalistAI/count.svg)
 
----
+                <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
 
-<div align="center">
-
-### 👥 Contagem de Visitantes
-
-![Visitor Count](https://profile-counter.glitch.me/leoanalistAI/count.svg)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
-
-</div>
+                </div>
