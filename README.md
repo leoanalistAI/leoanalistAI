@@ -14,7 +14,7 @@ Trabalho na interseção entre análise de dados, IA generativa e operações de
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| [PCP-Flow — Gantt Analyst](https://github.com/leoanalistAI/Gantt-Analyst-Copilot--Gestao-de-Projetos) | Gestão de tarefas e cronograma Gantt para PCP e Suprimentos | Python, Flask, SQLite, Plotly |
+| [Gantt KPI](https://github.com/leoanalistAI/Gantt-KPI) | Gestão de tarefas e cronograma Gantt para PCP e Suprimentos | Python, Flask, SQLite, Plotly |
 | [Suppl.AI — Site](https://github.com/leoanalistAI/supplai-site) | Plataforma de conteúdo sobre IA aplicada à Supply Chain | HTML, CSS, JS |
 | [AnalistAI Invest](https://github.com/leoanalistAI/AnalistAI-Invest) | Controle e análise de carteira de FIIs para iniciantes | Excel |
 
