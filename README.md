@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=22&duration=3500&pause=1200&color=BC002D&center=true&vCenter=true&width=640&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+Ol%C3%A1%2C+eu+sou+o+Leandro;Especialista+em+Dados+%26+IA;Supply+Chain+%C2%B7+PCP+%C2%B7+Automa%C3%A7%C3%A3o;%E6%94%B9%E5%96%84+%E2%80%94+melhoria+cont%C3%ADnua" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=22&duration=3500&pause=1200&color=4A6FA5&center=true&vCenter=true&width=640&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+Ol%C3%A1%2C+eu+sou+o+Leandro;Especialista+em+Dados+%26+IA;Supply+Chain+%C2%B7+PCP+%C2%B7+Automa%C3%A7%C3%A3o;%E6%94%B9%E5%96%84+%E2%80%94+melhoria+cont%C3%ADnua" alt="Typing SVG"/>
 
 </div>
 
