@@ -12,7 +12,7 @@
 
 ## ⛩️ 自己紹介 · Sobre mim
 
-Trabalho na interseção entre análise de dados, IA e operações de supply chain. Construo ferramentas que resolvem problemas reais de planejamento, compras e logística — e documento o processo.
+Trabalho na interseção entre análise de dados, IA e operações de supply chain. Elaboro processos e construo ferramentas que resolvem problemas reais de planejamento, compras e logística — e documento o processo.
 
 Supply chain já nasceu meio japonesa: *kaizen*, *kanban*, *just-in-time*. Eu só coloquei IA no meio. 🏯
 
