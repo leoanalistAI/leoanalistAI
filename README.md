@@ -50,8 +50,8 @@ Supply chain jÃ¡ nasceu meio japonesa: *kaizen*, *kanban*, *just-in-time*. Eu sÃ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leoanalistAI&show_icons=true&include_all_commits=true&count_private=true&bg_color=0b1026&title_color=ff5a5f&icon_color=ffb7c5&text_color=f5efe6&border_color=c9a96e&border_radius=10" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoanalistAI&layout=compact&bg_color=0b1026&title_color=ff5a5f&text_color=f5efe6&border_color=c9a96e&border_radius=10" height="165" alt="Top linguagens"/>
+<img src="./assets/stats.svg" height="165" alt="GitHub Stats"/>
+<img src="./assets/top-langs.svg" height="165" alt="Top linguagens"/>
 
 </div>
 

@@ -1,0 +1,51 @@
+name: Atualizar cards de estatísticas
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # diariamente às 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Gerar card de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&bg_color=0b1026&title_color=ff5a5f&icon_color=ffb7c5&text_color=f5efe6&border_color=c9a96e&border_radius=10&locale=pt-br
+          path: assets/stats.svg
+          # Para incluir repositórios privados, crie um PAT (repo + read:user) no secret STATS_TOKEN
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Gerar card de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=0b1026&title_color=ff5a5f&text_color=f5efe6&border_color=c9a96e&border_radius=10&locale=pt-br
+          path: assets/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit dos cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: atualiza cards de estatísticas"
+          git push
